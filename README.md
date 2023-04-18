@@ -1,1 +1,1 @@
-# EDA-on-ank-Loan-Default-Risk-Analysis
+# EDA-on-Bank-Loan-Default-Risk-Analysis
